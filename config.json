@@ -1,0 +1,12 @@
+{
+   "everyoneMention": false,
+   "hostedBy": true,
+   "loggerChannelID": 
+   "webhook": {
+      "id": 
+      "token": ""
+   },
+   "mongo": "Mongo Server ",
+   "prefix": "!",
+   "token": "Tu Token!"
+}

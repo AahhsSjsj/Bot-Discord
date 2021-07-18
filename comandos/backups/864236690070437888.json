@@ -1,0 +1,628 @@
+{
+    "name": "Bot Love Replit2",
+    "region": "us-south",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Canales de voz",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "General",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Canales de voz",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Canales de texto",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 2048,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "MuteRol",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                "content": "!backup create",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/857437213000335371/05aa163bd570cc92236f904706efd1f5.webp",
+                                "content": ":x: Tienes Decirme Una ID Del Backup Ejemplo: !backup info 12345678910111213141516 | El Backup ID Son De 16 Numeros, Si No Tienes un Backup ID Ponga !backup create Para Crear Uno ! uwu",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                "content": "!backup info",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                "content": "!backup info",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/857437213000335371/05aa163bd570cc92236f904706efd1f5.webp",
+                                "content": "Error Backup No Encontrado!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                "content": "!backup info",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!backup create",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "**Busqueda De Instagram, Para Ver La Informacion Reacciona A Estas Reacciones:**",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": "2021-07-10T21:32:01.458Z",
+                                        "color": 14025953,
+                                        "fields": [
+                                            {
+                                                "name": "❓",
+                                                "value": "InFormacion De La Cuenta",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "⚔",
+                                                "value": "Informacion De La Cuenta Con Mas Datos!",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "🌟",
+                                                "value": "Eliminar Reacciones  y Mensaje!",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!iginfo fernafloo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Resultados De: **discord.js**",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 14954385,
+                                        "fields": [
+                                            {
+                                                "name": "Nombre del paquete:",
+                                                "value": "discord.js",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Visitar:",
+                                                "value": "**[Click aquí](https://www.npmjs.com/package/discord.js)**",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Versión:",
+                                                "value": "12.5.3",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Descripción:",
+                                                "value": "A powerful library for interacting with the Discord API",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Links:",
+                                                "value": "**Homepage**\nhttps://github.com/discordjs/discord.js#readme\n**Repository**\nhttps://github.com/discordjs/discord.js\n**Bugs**\nhttps://github.com/discordjs/discord.js/issues",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Palabras clave:",
+                                                "value": "discord, api, bot, client, node, discordapp",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Publicado por:",
+                                                "value": "crawl",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Colaboradores: [4]",
+                                                "value": "hydrabolt, crawl, lewdcario, spaceeec",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://media.discordapp.net/attachments/832122714973143073/855232323104669716/npm-2.png?width=422&height=474",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/F_HfHAUQcpFE7-ZarFl4XUEJRJihGbTRLXNvCK2TT6o/%3Fwidth%3D422%26height%3D474/https/media.discordapp.net/attachments/832122714973143073/855232323104669716/npm-2.png",
+                                            "height": 474,
+                                            "width": 422
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Búsqueda en NPM"
+                                        },
+                                        "footer": {
+                                            "text": "Pedido por: karims,,´#4304 • Última actualización: 2/4/2021"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!npm discord.js",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!leaderboard",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!npm node-fecth",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!npm node-fecth",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!npm node-fecth",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716246241360/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!npm node-fecth",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "reglas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nuevo Miembro",
+                                        "type": "rich",
+                                        "description": "Bienvenido ,´ Al Servidor Bot Love Replit2, Ahora Somos 5",
+                                        "url": null,
+                                        "timestamp": "2021-07-04T06:29:50.900Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/MqB6MzbLu_z6yy-_8VQ5ZmHNgZSMNOrHFv4X9djGWCM/https/cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nuevo Miembro",
+                                        "type": "rich",
+                                        "description": "Bienvenido ,´ Al Servidor Bot Love Replit2, Ahora Somos 5",
+                                        "url": null,
+                                        "timestamp": "2021-07-04T06:23:54.423Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/MqB6MzbLu_z6yy-_8VQ5ZmHNgZSMNOrHFv4X9djGWCM/https/cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nuevo Miembro",
+                                        "type": "rich",
+                                        "description": "Bienvenido ,´ Al Servidor Bot Love Replit2, Ahora Somos 5",
+                                        "url": null,
+                                        "timestamp": "2021-07-02T23:34:29.697Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/MqB6MzbLu_z6yy-_8VQ5ZmHNgZSMNOrHFv4X9djGWCM/https/cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!test2",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nuevo Miembro",
+                                        "type": "rich",
+                                        "description": "Bienvenido ,´ Al Servidor Bot Love Replit2, Ahora Somos 5",
+                                        "url": null,
+                                        "timestamp": "2021-07-02T23:31:47.248Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/MqB6MzbLu_z6yy-_8VQ5ZmHNgZSMNOrHFv4X9djGWCM/https/cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!test2",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nuevo Miembro",
+                                        "type": "rich",
+                                        "description": "Bienvenido ,´ Al Servidor Bot Love Replit2, Ahora Somos 5",
+                                        "url": null,
+                                        "timestamp": "2021-07-02T23:28:59.870Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/MqB6MzbLu_z6yy-_8VQ5ZmHNgZSMNOrHFv4X9djGWCM/https/cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!test2",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!test",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235716686643230/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Nuevo Miembro",
+                                        "type": "rich",
+                                        "description": "Bienvenido ,´ Al Servidor Bot Love Replit2, Ahora Somos 5",
+                                        "url": null,
+                                        "timestamp": "2021-07-02T23:26:21.251Z",
+                                        "color": 3066993,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/MqB6MzbLu_z6yy-_8VQ5ZmHNgZSMNOrHFv4X9djGWCM/https/cdn.discordapp.com/avatars/804826341471420417/20c9ff2baf33706ed15e885133a53d72.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "eezzzzzz",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235720348926032/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "```\n let canvas = welcomeCanvas;\n     canvas.context.font = '42px sans-serif',\n     canvas.context.textAlign= 'center';\n     canvas.context.fillText(member.user.tag.toUpperCase(), 512, 410)\n     canvas.context.font ='32px sans serif'\n     canvas.context.fillText(`Eres El Miembro ${member.guild.memberCount}th`, 512, 455)\n     canvas.context.beginPath()\n     canvas.context.arc(512, 166, 119, 0, Math.PI * 2, true)\n     canvas.context.closePath()\n     canvas.context.clip()\n     await Canvas.loadImage(member.user.displayAvatarURL({format: 'png', size: 1024}))\n     .then(img => {\n         canvas.context.drawImage(img, 393, 47, 238, 238);    \n     })\n     let atta = new Discord.MessageAttachment(canvas.create.toBuffer(), `welcome-${member.id}.png`)\n\n     const welcomechannel = client.channels.cache.get('864726966850158652').send(atta)      \n     try {\n             welcomechannel.send(`:wave: Hola ${member}, Bienvenido a ${meber.guild.name}!`, atta)\n     } catch (error) {\n             console.log(error)\n     }```",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Love  bot",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235720348926032/febe41187a29a49c2b0e444c8f039042.webp",
+                                "content": "No Puedes Mandar Enlances!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "general2",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "xd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "karims,,´",
+                                "avatar": "https://cdn.discordapp.com/avatars/864235723929944085/5359c035210bb8d92ba9d0b3d9876055.webp",
+                                "content": "!test2",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "dxx",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "nuevo rol",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "Admin",
+            "color": "#e91e63",
+            "hoist": false,
+            "permissions": 372756057,
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "MuteRol",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 103876161,
+            "mentionable": true,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [
+        {
+            "name": "dxd",
+            "url": "https://cdn.discordapp.com/emojis/864235709825024040.png"
+        },
+        {
+            "name": "onlinexd",
+            "url": "https://cdn.discordapp.com/emojis/864235712210272296.gif"
+        }
+    ],
+    "createdTimestamp": 1626120483654,
+    "guildID": "864235432622161980",
+    "id": "864236690070437888",
+    "iconURL": "https://cdn.discordapp.com/icons/864235432622161980/bd92096890c1ebccd64b683354bc3102.webp"
+}
