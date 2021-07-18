@@ -10,7 +10,7 @@ var colors = require('colors')
 
 
 
-mongoose.connect('mongodb+srv://Jennifer:pain2004@$@lovebotxd.nvy6r.mongodb.net/Data?authSource=admin&replicaSet=atlas-t5j4wf-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true', {
+mongoose.connect('Mongo Server', {
   useUnifiedTopology: true,
   useNewUrlParser: true,
 }).then(console.log('Conectado a MongoDB!'.red))
@@ -35,7 +35,7 @@ client.giveawaysManager = new GiveawaysManager(client, {
     exemptPermissions: [],
     embedColor: 'RANDOM',
     embedColorEnd: 'RANDOM',
-    reaction: "858508673353515058"
+    reaction: "ID EMOJI O 🎉"
   }
 })
 
@@ -211,7 +211,7 @@ client.on('ready', async (member) => {
   .setFooter('Bot En '+client.guilds.cache.size+' Servers y En Canales Totales Es: '+client.channels.cache.size.toLocaleString()+' En Total!', client.user.avatarURL())
   .setColor('RANDOM')
 
-  client.channels.cache.get('864726897300996096').send('<@804826341471420417>',embed)
+  client.channels.cache.get('Canal ID').send('<@TU ID>',embed)
 })
 
 
