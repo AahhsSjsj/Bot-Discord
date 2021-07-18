@@ -175,7 +175,7 @@ const embed = new Discord.MessageEmbed()
  .setFooter("Gracias por unirte ")
  .setColor("RANDOM")
 
- client.channels.cache.get('864727159272112128').send(embed)
+ client.channels.cache.get('CANAL ID').send(embed)
 
 })
 
@@ -191,7 +191,7 @@ client.on("guildMemberRemove", async (member) => {
 
 
 
- client.channels.cache.get('864727183602614272').send(embed)
+ client.channels.cache.get('CANAL ID').send(embed)
 
 })
 
