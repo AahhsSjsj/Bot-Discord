@@ -24,7 +24,7 @@ async execute (client, message, args){
 
     antienlaces.establecer(servidor, servidor)
 
-    message.lineReply("Los AntiEnlances han sido desactivados, ya podeis Mandar!")
+    message.lineReply("Los AntiEnlances han sido desactivados, ya podeis Mandarlos!")
  }
 
  if(accion === 'on'){
